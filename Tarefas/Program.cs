@@ -342,7 +342,7 @@ namespace Tarefas
         static void Sair()
         {
             Console.Clear();
-            Console.WriteLine("Obrigado por usar o programa!");
+            Console.WriteLine("Obrigado por usar o programa! ");
         }
     }
 }
